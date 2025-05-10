@@ -23,7 +23,7 @@
 ### :black_cat: whoami :
 - 💻 computer science student from 🇸🇬.
 
-- 🌐 cybersecurity, software developer
+- 🌐 cybersec, swe
   
 - 🧢 badminton, basketball, food
 <!---
