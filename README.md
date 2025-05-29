@@ -1,16 +1,28 @@
-## Hi there 👋
+<div id="header" style="font-family: Arial;" align="center">
+<!-- Header -->
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/giphy.gif" width="100"/>
+  </div>
+  <br>
+<!-- SOCIAL MEDIA -->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/dylan-liew/">
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/x44ylan/">
+      <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
+    </a>
+    <a href="https://discord.com/users/424807602304843776">
+      <img src="https://img.shields.io/badge/discord-white?logo=discord&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
+    </a>
+  </div>
+</div>
 
-<!--
-**Dylan-Liew/dylan-liew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :black_cat: whoami :
+- 💻 computer science student from 🇸🇬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 cybersec, software engineer
+
+- 🧊 badminton, food
