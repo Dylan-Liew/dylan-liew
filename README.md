@@ -7,10 +7,13 @@
 <!-- SOCIAL MEDIA -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/dylan-liew/">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/x44ylan/">
+      <img src="https://img.shields.io/badge/Instagram-white?logo=instagram&logoColor=black&style=for-the-badge" alt="Instagram Badge"/>
     </a>
     <a href="https://discord.com/users/424807602304843776">
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/discord-white?logo=discord&logoColor=black&style=for-the-badge" alt="Discord Badge"/>
     </a>
   </div>
 </div>
